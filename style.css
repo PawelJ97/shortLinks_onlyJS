@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    padding: 5rem;
+    background: antiquewhite;
+}
+#source-link{
+    width: 70%;
+    height: 30px;
+}
+.link{
+    margin-top: .4rem;
+    font-size: 1.3rem;
+}
+#generate-button{
+    width: 100px;
+    height: 30px;
+}
